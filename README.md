@@ -2,4 +2,4 @@
 
 # requeierments:
 - requests
-- have payloads.txt installed
+- have file named payloads installed
